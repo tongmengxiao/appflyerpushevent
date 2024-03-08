@@ -1,1 +1,2 @@
 # appflyerpushevent
+ appflyer上报文件csv转json文件
